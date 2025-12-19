@@ -16,3 +16,5 @@ else:
 Output
 Enter the number:
 5
+
+It is a Palindrome number
